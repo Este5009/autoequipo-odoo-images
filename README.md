@@ -1,0 +1,1 @@
+# autoequipo-odoo-images
